@@ -23,3 +23,22 @@ This project is a solution to a Frontend Mentor challenge and is suitable for be
 - How to create dashboard with HTML and CSS
 - How to toggle theme using JavaScript
 - Better understanding of DOM manipulation
+
+⚙️ How to Run the Project Locally
+
+
+1. Clone the repository
+    ```bash
+    git clone https://github.com/your-username/dashboard-theme-switcher.git
+    ```
+2. Open the project folder
+3. Open index.html in your browser
+
+## 🧠 Useful Resources
+
+- [Frontend Mentor](https://www.frontendmentor.io/)
+- [MDN Web Docs](https://developer.mozilla.org/en-US/)
+
+🙋‍♂️ Author
+
+Rinkal Koshti
