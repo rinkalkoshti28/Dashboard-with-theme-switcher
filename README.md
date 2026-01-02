@@ -24,7 +24,7 @@ This project is a solution to a Frontend Mentor challenge and is suitable for be
 - How to toggle theme using JavaScript
 - Better understanding of DOM manipulation
 
-⚙️ How to Run the Project Locally
+## ⚙️ How to Run the Project Locally
 
 
 1. Clone the repository
@@ -34,11 +34,16 @@ This project is a solution to a Frontend Mentor challenge and is suitable for be
 2. Open the project folder
 3. Open index.html in your browser
 
+## 📸 ScreenShots
+
+![Light-page](screenshots/light-page.jpg)
+![Dark-page](screenshots/dark-page.jpg)
+
 ## 🧠 Useful Resources
 
 - [Frontend Mentor](https://www.frontendmentor.io/)
 - [MDN Web Docs](https://developer.mozilla.org/en-US/)
 
-🙋‍♂️ Author
+## 🙋‍♂️ Author
 
 Rinkal Koshti
